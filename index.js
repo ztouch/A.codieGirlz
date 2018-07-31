@@ -35,7 +35,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
   $("#home").on('load', function(){
-  $("myText").fadeIn("slow");
+  $("#myText").fadeIn("slow");
   
   });
   
