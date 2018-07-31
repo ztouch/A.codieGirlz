@@ -32,3 +32,11 @@ $(document).ready(function(){
     });
   });
 })
+
+$(document).ready(function(){
+  $("#home").on('click', function(){
+  $("myText").fadeIn("slow");
+  
+  })
+  
+})
